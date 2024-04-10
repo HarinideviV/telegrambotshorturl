@@ -1,0 +1,37 @@
+BotFather - to create telegram bot
+
+https://gqn56spfje.execute-api.us-east-1.amazonaws.com/demoyt16112022
+
+https://t.me/demoyttelegramwebhookshowsbot
+
+http api 7125490699:AAFZD14PCdp8ySFbRZhP7Q3CnTYvnaiu7iY
+
+setup webhook :
+
+https://api.telegram.org/bot{http api token}/setwebhook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
